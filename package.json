@@ -1,0 +1,42 @@
+{
+  "name": "lat-long-to-km",
+  "version": "1.0.0",
+  "description": "This module takes in lat long of two locations and returns the distance between them in Kilometres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavav/lat-long-to-km.git"
+  },
+  "keywords": [
+    "latitude",
+    "longitude",
+    "distance",
+    "kilometer",
+    "distance",
+    "between",
+    "two",
+    "locations"
+  ],
+  "author": "Aishwarya Vaibhav <aishwaryavaibhav@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vaibhavav/lat-long-to-km/issues"
+  },
+  "homepage": "https://github.com/Vaibhavav/lat-long-to-km#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
